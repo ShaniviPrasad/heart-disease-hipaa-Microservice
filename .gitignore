@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+__pycache__/
+
+# Secret Keys & Models
+secret.key
+*.pkl
+
+# Generated CSVs
+*.csv
